@@ -21,5 +21,6 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency('minitest', '~> 5.4')
   s.add_development_dependency('rdoc', '~> 4.0')
+  s.add_development_dependency('arel', '~> 6.0.0')
   s.add_development_dependency('rake')
 end
