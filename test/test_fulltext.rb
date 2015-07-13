@@ -1,7 +1,7 @@
 require 'helper'
 
 describe Arel do
-  before :all do
+  before do
     @table = Arel::Table.new(:people)
     @attr = @table[:name]
     @conn = FakeRecord::Base.new
