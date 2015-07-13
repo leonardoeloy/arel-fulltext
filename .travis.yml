@@ -12,9 +12,10 @@ rvm:
   - jruby-head
   - 2.0.0
   - 2.1
-  # - ruby-head
+  - 2.2
+  - ruby-head
 matrix:
   allow_failures:
-    - rvm: rbx
+    - rvm: rbx ruby-head
 notifications:
   email: true
