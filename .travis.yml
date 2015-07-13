@@ -2,6 +2,8 @@ language: ruby
 script:
   - "rake test"
   - "gem build arel-fulltext.gemspec"
+install:
+  - "gem install arel"
 env:
   global:
     - JRUBY_OPTS='--dev -J-Xmx512M'
