@@ -62,8 +62,8 @@ CREATE FULLTEXT INDEX index_id ON table (column);
 
 ## License
 
-(Arel MySQL Full-Text)[https://github.com/leonardoeloy/arel-mysql-fulltext] is released under a MIT License.
+[Arel MySQL Full-Text](https://github.com/leonardoeloy/arel-mysql-fulltext) is released under a MIT License.
 
-Portions of this software are licensed from (Arel)[https://github.com/rails/arel/], copyrighted 2007-2010 to Nick Kallen, Bryan Helmkamp, Emilio Tagua, Aaron Patterson.
+Portions of this software are licensed from [Arel](https://github.com/rails/arel), copyrighted 2007-2010 to Nick Kallen, Bryan Helmkamp, Emilio Tagua, Aaron Patterson.
 
 
