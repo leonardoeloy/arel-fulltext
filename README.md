@@ -1,7 +1,6 @@
 # Arel Full-Text Search Support [![Build Status](https://secure.travis-ci.org/leonardoeloy/arel-fulltext.svg?branch=master)](http://travis-ci.org/leonardoeloy/arel-fulltext) [![Dependency Status](https://gemnasium.com/leonardoeloy/arel-fulltext.svg)](https://gemnasium.com/leonardoeloy/arel-fulltext)
 
-Adds support to do MySQL Full-Text Search with Arel's nodes.
-
+Adds 'native' full-text search support to Arel.
 
 ## Usage
 
